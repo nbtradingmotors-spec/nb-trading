@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://VOTRE-URL-GITHUB-PAGES/sitemap.xml
+Sitemap: https://VOTRE-URL-A-REMPLACER.example/sitemap.xml

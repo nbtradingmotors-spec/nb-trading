@@ -1,21 +1,26 @@
-NB-TRADING — site vitrine
+NB-TRADING — SITE MOTO & AUTO
+Style inspiré du modèle validé : noir/charbon, rouge et jaune, moto sportive et voiture, cartes de services et véhicules, contact et présentation.
 
-CONTENU
-- index.html : page principale
-- styles.css : mise en page responsive (ordinateur et mobile)
-- script.js : menu mobile et année automatique
-- assets/hero-moto-auto.png : visuel créé pour le site (moto sportive + voiture)
-- robots.txt et sitemap.xml : base pour l'indexation Google
+Coordonnées :
+Téléphone : +32 497 74 05 40
+E-mail : nbtradingmotors@gmail.com
+Facebook : NB-Trading (vérifiez/remplacez l'URL si le lien réel de la page diffère)
+Zone d'activité : à définir.
 
-IMPORTANT
-Les photos des cartes véhicules sont des illustrations en ligne. Elles ne représentent pas nécessairement le stock réel. Remplacez-les et les textes par les annonces disponibles avant publication. L'adresse de la zone d'activité reste « à définir ». Vérifiez l'URL Facebook avant publication.
+Les photos proviennent d'Unsplash et nécessitent Internet. Les images et véhicules sont illustratifs, les modèles/prix affichés ne sont pas présentés comme un inventaire réel.
 
-PUBLIER GRATUITEMENT AVEC GITHUB PAGES
-1. Créez un compte sur https://github.com/
-2. Créez un dépôt public nommé nb-trading.
-3. Envoyez tous les fichiers de ce dossier, en gardant index.html à la racine et le dossier assets.
-4. Dans Settings > Pages, choisissez Deploy from a branch, branche main, dossier /(root), puis Save.
-5. Une fois l'adresse du site fournie, remplacez VOTRE-URL-GITHUB-PAGES dans sitemap.xml et robots.txt par cette adresse réelle.
-6. Dans Google Search Console (https://search.google.com/search-console/), ajoutez votre site, puis envoyez sitemap.xml et demandez l'indexation de la page d'accueil.
+PUBLICATION GRATUITE :
+1. Décompressez le ZIP.
+2. Créez un compte sur https://github.com/
+3. Créez un dépôt public nommé nb-trading.
+4. Téléversez index.html, styles.css, script.js, robots.txt, sitemap.xml et ce guide à la racine.
+5. Dans Settings > Pages, choisissez Deploy from a branch, branche main, dossier /(root), puis Save.
+6. Récupérez l'URL fournie par GitHub.
+7. Remplacez l'URL d'exemple dans index.html, robots.txt et sitemap.xml par votre URL réelle.
+8. Sur https://search.google.com/search-console/, ajoutez votre URL, validez la propriété et soumettez sitemap.xml.
 
-Google peut prendre du temps et ne garantit pas l'indexation immédiate. Le site n'est pas publié automatiquement par la création de cette archive.
+L'hébergement et la demande d'indexation sont gratuits. Google ne garantit pas une indexation immédiate. Le site n'est pas publié tant que vous n'avez pas suivi les étapes ci-dessus.
+
+
+MISE À JOUR VISUELLE
+L'image principale a été créée spécialement pour NB-TRADING et est incluse localement dans images/nb-trading-hero.png. Les images des cartes utilisent aussi cette image afin d'éviter les anciennes photos de moto inadaptées. Pour remplacer chaque carte par des photos distinctes de véhicules réellement en stock, ajoutez vos propres photos.
